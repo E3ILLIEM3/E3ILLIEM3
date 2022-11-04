@@ -46,7 +46,7 @@
 
 
 ## ช่องทางชำระเงิน
-
+> ![BBl-Screenshot-1652354682222](https://user-images.githubusercontent.com/116717298/199983763-65d282e0-f7c4-4df9-a990-287e011e8af4.jpeg)
 
 ## แจก Plugin ฟรี
 > **[e3illiem3 - gallery](https://github.com/E3ILLIEM3/e3illiem3_gallery) :** Preview  รูปภาพเป็น Gallery

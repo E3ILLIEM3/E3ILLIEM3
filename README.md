@@ -45,6 +45,8 @@
 | ![1](https://user-images.githubusercontent.com/116717298/199933474-f988bee1-a321-4f27-a187-68b6557e09ad.jpg) ![2](https://user-images.githubusercontent.com/116717298/199933486-fc657658-2fbe-4a7c-b964-3893db669d3b.jpg) ![3](https://user-images.githubusercontent.com/116717298/199933509-3c8d6569-a580-49c0-92ba-aaf6e827538d.jpg) ![4](https://user-images.githubusercontent.com/116717298/199933522-a50f9891-069f-4d53-8a88-2228c2a66143.jpg) ![5](https://user-images.githubusercontent.com/116717298/199933532-b1cbca66-eaf1-4304-ba20-491bb9ad9b32.jpg)  | เว็บแอพพลิเคชันซื้อขายเช่าบูชาวัตถุมงคล **ระบบตะกร้าสินค้า** , **ระบบหลังบ้านแอดมิน**          |
 
 
+## ช่องทางชำระเงิน
+
 
 ## แจก Plugin ฟรี
 > **[e3illiem3 - gallery](https://github.com/E3ILLIEM3/e3illiem3_gallery) :** Preview  รูปภาพเป็น Gallery
